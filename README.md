@@ -3,4 +3,4 @@ This document is the report of an homework assigned in the Computer and Network 
 
 In the report I discuss and compare differencies and similarities between the protocols, analyzing some important security aspects.
 
-Download the document [HERE](https://github.com/PanK0/Signal-and-MTProto-protocols-analysis/blob/main/Signal-and-MTProto-analysis.pdf)
+Download the document [HERE](https://github.com/PanK0/Signal-and-MTProto-protocols-analysis/blob/main/Signal-and-MTProto-analysis.pdf).
