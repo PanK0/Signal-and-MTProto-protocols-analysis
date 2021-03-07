@@ -1,2 +1,4 @@
-# Signal-and-MTProto-protocols-analysis
-A comparison of the two protocols: high level discussion of the two communication protocols used by WhatsApp and Telegram and then a detailed discussion of interesting differences and similarities
+# Signal and MTProto protocols analysis
+This document is the report of an homework assigned in the Computer and Network Security course at Sapienza University of Rome and deals with an high level understanding of Signal protocol and MTProto protocol respectively adopted by WhatsApp and Telegram for communication.
+
+In the report I discuss and compare differencies and similarities between the protocols, analyzing some important security aspects.
